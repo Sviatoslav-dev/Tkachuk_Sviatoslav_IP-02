@@ -8,5 +8,4 @@ elif (x <= 2):
 else:
     y = 4
 
-#print("y =")
 print("y =", y)
